@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "icon": { "item": "kubejs:ocean_soup_bucket" },
+    "title": "THE OCEAN IS A SOUP",
+    "description": "It contains meat, salt, and veggies",
+    "frame": "challenge",
+    "announce_to_chat": true
+  },
+  "criteria": { "soup": { "trigger": "minecraft:impossible" } }
+}
